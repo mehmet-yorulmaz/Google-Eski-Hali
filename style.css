@@ -1,0 +1,90 @@
+body{
+    width: 100%;
+    margin: auto auto;
+}
+
+.google-logo{
+    display: block;
+    margin: 0 auto;
+}
+
+.heading-oversearch{
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.input-search{
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+}
+
+.section-btn{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+
+.search-btn {
+    cursor: pointer;
+}
+
+.lucky-btn{
+    cursor: pointer;
+}
+
+.container-1{
+    background-color: gainsboro;
+}
+
+.div-1{
+    display: inline-block;
+    width: 700px;
+    background-color: rgb(60, 137, 94);
+}
+
+.div-1-index{
+    display: flex;
+    justify-content: center;
+}
+
+
+.div-2{
+    display: inline-block;
+    width: 500px;
+    background-color: rgb(30, 137, 94);
+}
+
+.div-2-a{
+    display: flex;
+    justify-content: center;
+}
+
+.div-3{
+    display: inline-block;
+    width: 800px; 
+    text-align: center;
+    background-color: rgb(1, 137, 94);
+}
+
+.e-mail{
+    width: 220px;
+    display: block;
+    margin: 0 auto;
+}
+
+.subscribe{
+    margin-right: 10px;
+}
+
+.container-2{
+    display: flex;
+    justify-content: stretch;
+    gap: 5px;
+    margin-top: 5px;
+}
+
+footer{
+    text-align: center;
+    font-weight: bold;
+}
